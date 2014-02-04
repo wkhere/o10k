@@ -1,0 +1,5 @@
+This is nice example of running external command in Erlang with open_port.
+
+See:
+http://www.erlang.org/pipermail/erlang-questions/2007-September/029471.html
+http://steve.vinoski.net/blog/2007/09/23/tim-bray-and-erlang/
